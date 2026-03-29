@@ -1,5 +1,5 @@
 # ServeR
-SP
+
 Bu proje, server/port yapısında çalışan hafif bir server sunucusudur.  
 Server, çeşitli araç ve scriptleri yönetmek ve çalıştırmak için kullanılabilir.
 
